@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-08_0203",
+    "name": "KasiFoodnDrink",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,11 @@
     "siteFonts": [],
     "uniqCompNum": 16,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/kasi-food-drinks-fest-logo-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
