@@ -37,7 +37,7 @@
     "uniqCompNum": 16,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/kasi-food-drinks-fest-logo-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/kasi-food-drinks-fest-logo-1-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": ""
